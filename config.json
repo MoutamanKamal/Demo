@@ -1,0 +1,6 @@
+{
+	"config": {
+		"testblock_id": "method",
+		"packages": [{ "name": "pac", "classes": ["TestJunit.java"] }]
+	}
+}
