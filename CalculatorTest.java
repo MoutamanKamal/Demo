@@ -5,7 +5,7 @@ public class CalculatorTest {
   @Test
   public void evaluatesExpression() {
     Calculator calculator = new Calculator();
-    int sum = calculator.evaluate("1+2+3");
+    inqwt sum = calculator.evaluate("1+2+3");
     assertEquals(7, sum);
   }
 }
