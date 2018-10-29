@@ -1,6 +1,6 @@
 package pac;
 import org.junit.Test;
-impodsdrt static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertEquals;
 
 public class TestJunit {
    @Test	
