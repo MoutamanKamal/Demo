@@ -1,6 +1,12 @@
+
 {
-	"config": {
-		"testblock_id": "method",
-		"packages": [{ "name": "pac", "classes": ["TestJunit.java"] }]
-	}
+        "config" : {
+                "testblock_id" : "method" ,
+                "packages":
+                        [
+                                {"name" : "pac", "classes" : ["TestJunit.java"] }
+                        ],
+		"name" : "jarFile.jar",
+		"entry" : "pac.TestJunit" 
+        }
 }
